@@ -41,5 +41,6 @@
         "yml",
         "COBOL",
         "ACUCOBOL"
-    ]
+    ],
+    "cSpell.enabled": true
 }
