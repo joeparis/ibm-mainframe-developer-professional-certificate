@@ -42,5 +42,14 @@
         "COBOL",
         "ACUCOBOL"
     ],
-    "cSpell.enabled": true
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "CHPID",
+        "CHPIDS",
+        "DASD",
+        "DFSMS",
+        "IOCDS",
+        "PCHID",
+        "ZIIP"
+    ]
 }
