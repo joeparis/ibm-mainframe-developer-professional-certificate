@@ -50,6 +50,7 @@
         "DFSMS",
         "IOCDS",
         "PCHID",
+        "Sysplex",
         "ZIIP"
     ]
 }
